@@ -1,6 +1,6 @@
 # The Arts Hub operations portal
 
-The Arts Hub is my wife's performing arts school on the Isle of Man, and since July 2026 I have built and run the portal it uses to manage classes, families, staff and money. It is taking over from the commercial membership system the school used before, and it already saves us hours of administration every month. The source stays private because it holds children's and families' details, payroll and bank information, so this is a description of how it works and how I run it rather than the code itself.
+The Arts Hub is my wife's performing arts school on the Isle of Man, and since July 2026 I have built and run the portal it uses to manage classes, families, staff and money. It replaced the commercial membership system the school used before, and it saves us hours of administration every month. The source stays private because it holds children's and families' details, payroll and bank information, so this is a description of how it works and how I run it rather than the code itself.
 
 ## What it does
 
